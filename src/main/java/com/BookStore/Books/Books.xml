@@ -2,17 +2,38 @@
 <Books>
     <book>
         <id>1</id>
-        <title >To Kill a Mockingbird</title>
-        <author>Harper Lee</author>
+        <title >Bird</title>
+        <author>George</author>
         <year>1960</year>
-        <price>12.50</price>
+        <price>712.50</price>
     </book>
     <book>
         <id>2</id>
         <title >Animal</title>
         <author>Haribotar</author>
         <year>1987</year>
-        <price>78.98</price>
+        <price>789.98</price>
+    </book>
+    <book>
+        <id>3</id>
+        <title>Tourisum</title>
+        <author>Marktean</author>
+        <year>1907</year>
+        <price>498.89</price>
+    </book>
+    <book>
+        <id>4</id>
+        <title>Hobby</title>
+        <author>Martin</author>
+        <year>2020</year>
+        <price>890.98</price>
+    </book>
+    <book>
+        <id>5</id>
+        <title>Tourisum</title>
+        <author>Marktean</author>
+        <year>1907</year>
+        <price>498.89</price>
     </book>
 </Books>
 

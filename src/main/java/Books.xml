@@ -1,0 +1,20 @@
+@ImportResource("classpath:D:\book\book\src\main\java\Book.xml")
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <book>
+        <id>1</id>
+        <title >To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <year>1960</year>
+        <price>12.50</price>
+    </book>
+    <book>
+        <id>2</id>
+        <title >Animal</title>
+        <author>Haribotar</author>
+        <year>1987</year>
+        <price>78.98</price>
+    </book>
+</Books>
+
